@@ -14,12 +14,9 @@ The objective is to provide insights into:
 The datasets span multiple years and quarters, offering a comprehensive view of transactions, user behavior, and demographic details.  
 
 In this project, I explored **PhonePe’s digital payments ecosystem** by analyzing multi-year transaction and demographic datasets across Indian states and districts. Using **Python, Pandas, NumPy, Matplotlib, and Seaborn**, I have performed:
-
-  o	**Data loading and cleaning**
-  
-  o	**Exploratory analysis**
-  
-  o	**Advanced correlation checks**
+  o	**Data loading and cleaning:**  
+  o	**Exploratory Data Analysis**  
+  o	**Advanced correlation checks**  
 
 This case study demonstrates how **transactional and demographic data can be combined to generate actionable business insights**. It reflects my ability to translate raw data into **strategic recommendations** for digital payment platforms, while showcasing skills in **Python and data visualization**.
 
