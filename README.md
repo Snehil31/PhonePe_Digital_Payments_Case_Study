@@ -3,17 +3,14 @@
 📌 **Overview**
 This case study involves analyzing transaction data from the financial application **PhonePe** along with demographic data across various states and districts in India.  
 
-The objective is to provide insights into:
-
-  o	**Transaction trends**
-  
-  o	**Device usage**
-  
-  o	**Demographic correlations**
+The objective is to provide insights into:  
+  o	**Transaction trends**  
+  o	**Device usage**  
+  o	**Demographic correlations**  
 
 The datasets span multiple years and quarters, offering a comprehensive view of transactions, user behavior, and demographic details.  
 
-In this project, I explored **PhonePe’s digital payments ecosystem** by analyzing multi-year transaction and demographic datasets across Indian states and districts. Using **Python, Pandas, NumPy, Matplotlib, and Seaborn**, I have performed:
+In this project, I explored **PhonePe’s digital payments ecosystem** by analyzing multi-year transaction and demographic datasets across Indian states and districts. Using **Python, Pandas, NumPy, Matplotlib, and Seaborn**, I have performed:  
   o	**Data loading and cleaning:**  
   o	**Exploratory Data Analysis**  
   o	**Advanced correlation checks**  
